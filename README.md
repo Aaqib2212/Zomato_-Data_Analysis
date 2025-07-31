@@ -34,17 +34,25 @@ This project focuses on analyzing online food order patterns using a Zomato data
 - Heatmaps for correlation between features
 - Time-series trends
 # How to Run
-**Clone this Repo**:
+1. **Clone this Repo**:
 ```bash
 git clone https://github.com/Aaqib2212/zomato-order-analysis.git
 cd zomato-order-analysis
 ```
-# Install required dependencies:
+2. # Install required dependencies:
 ```bash
 pip install pandas matplotlib seaborn jupyter
 ```
-# Launch the notebook:
+3. # Launch the notebook:
 ```bash
 jupyter notebook
 ```
-# Open _Zomato Online Order Analysis.ipynb and run the cells sequentially.
+4. Open _Zomato Online Order Analysis.ipynb and run the cells sequentially.
+# Preview
+# License
+This project is open-source and available under the [MIT License](LICENSE).
+
+# Contact
+Feel free to connect:
+- Linkedin: https://www.linkedin.com/in/aaqib2212/
+- Mail: aaqibbelim0@gmail.com
